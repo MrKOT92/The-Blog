@@ -1,0 +1,92 @@
+body {
+  background-size: 100%;
+  font-family: Arial, sans-serif;
+}
+
+.head1 {
+  width: 35%;
+
+  display: flex;
+  margin-left: 14%;
+  margin-right: 10%;
+}
+.head2 {
+  margin-left: 3%;
+}
+.title {
+  font-size: 100px;
+  font-weight: bolder;
+  margin-left: 14%;
+  margin-bottom: 32px;
+}
+.p-bold {
+  font-size: 60px;
+  font-weight: bolder;
+  margin-top: 10px;
+}
+.up-small-text {
+  margin-top: -59px;
+}
+.mittle {
+  padding-top: 60px;
+  margin-left: 14%;
+}
+.mittlepic {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+ul {
+  position: absolute;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+  height: 4vh;
+  width: 100%;
+  list-style-type: none;
+  margin-left: 14%;
+  padding-top: 10px;
+}
+.date-mittle li {
+  display: inline;
+}
+ul li:nth-child(2) {
+  margin-left: 300px;
+}
+ul li:nth-child(3) {
+  margin-left: 307px;
+}
+.text-mittle {
+  width: 200px;
+  padding-top: 50px;
+  display: inline-block;
+  font-size: 33px;
+}
+.text-mittle ul li {
+  font-weight: bolder;
+  position: absolute;
+  display: inline;
+  width: 280px;
+}
+.text-mittle ul li:nth-child(2) {
+  margin-left: 420px;
+}
+.text-mittle ul li:nth-child(3) {
+  margin-left: 53%;
+}
+.small-text-mittle {
+  padding-top: 230px;
+  padding-bottom: 50px;
+  font-size: 13px;
+}
+.small-text-mittle ul li {
+  position: absolute;
+  display: inline;
+  width: 280px;
+}
+.small-text-mittle ul li:nth-child(2) {
+  margin-left: 420px;
+}
+.small-text-mittle ul li:nth-child(3) {
+  margin-left: 53%;
+}
