@@ -1,6 +1,53 @@
+.everything {
+    width: 70%;
+    margin: auto;
+    font-family: Arial, sans-serif;
+}
+.title h1 {
+    font-size: 100px;
+    font-weight: bolder;
+    margin: 50px 0 25px 0;
+}
+.featured .pic {
+    float: left;
+    width: 600px;
+}
+.featured .pic img {
+    width: 100%;
+}
+.featured .text {
+    padding: 15px;
+    float: left;
+    width: 250px;
+}
+.featured h2 {
+    font-size: 48px;
+    font-weight: bolder;
+    margin: 0;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.featured p {
+    margin: 0;
+}
+.clearBoth { clear:both; }
 .articles {
+    margin-top: 50px;
+    margin-bottom: 100px;
 }
 .articles .article {
+    float: left;
+    width: 280px;
+    margin-right: 20px;
+}
+.articles .article img {
+    width: 100%;
 }
 .articles .article h3 {
+    font-size: 33px;
+    margin: 0;
+    margin-bottom: 5px;
+}
+.articles .article .description {
+    margin: 0;
 }
